@@ -15,4 +15,4 @@ The electrical design of this device is very straight forward. There are two but
 https://github.com/user-attachments/assets/a89477b6-631c-4981-afeb-b518eab08cab
 
 ## Next Steps
-
+The main focus with improving this project is to make it a more market-ready product and less of a prototype. For starters, the wires are just left sticking out and are sprawling everywhere. To fix this, a pcb could be designed to reduce the space that the whole electrical system takes up and the mount can be sized down accordingly to take up less space on the user's wheelchair arm. As well a cover can be made to hide this board and make the design more appealing to the eye.
